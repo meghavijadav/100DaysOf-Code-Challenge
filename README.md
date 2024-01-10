@@ -62,3 +62,22 @@ Link to work:
 [Leetcode](https://github.com/meghavijadav/100DaysOfCode/tree/main/Day%204/Leetcode-%20448.%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+### Day 5
+
+Today's Progress:
+1. Solved leetcode Question with notes of the approach. 
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/100DaysOf-Code-Challenge/tree/main/Day%205/852.%20Peak%20Index%20in%20a%20Mountain%20Array)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+### Day 5
+
+Today's Progress:
+1. Built an OOPS Java Project
+   
+Link to work: 
+[OOPS Java](https://github.com/meghavijadav/Employee-Payroll-System.git)
+
