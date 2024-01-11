@@ -73,11 +73,80 @@ Link to work:
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
-### Day 5
+### Day 6
 
 Today's Progress:
 1. Built an OOPS Java Project
    
 Link to work: 
 [OOPS Java](https://github.com/meghavijadav/Employee-Payroll-System.git)
+
+### Day 7
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/151.%20Reverse%20Words%20in%20a%20String)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Max%20Min)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Reverse%20words%20in%20a%20given%20string)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 8
+
+Today's Progress:
+1. Solved two Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/344.%20Reverse%20String)
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1913.%20Maximum%20Product%20Difference%20Between%20Two%20Pairs)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+### Day 9
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Sort%20an%20array%20of%200s%2C%201s%20and%202s)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 10
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/581.%20Shortest%20Unsorted%20Continuous%20Subarray)
+[GFG]()
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+
+### Day 11
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved two Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/4.%20Median%20of%20Two%20Sorted%20Arrays)
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/217.%20Contains%20Duplicate)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Kth%20smallest%20element)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+
+
 
