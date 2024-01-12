@@ -13,7 +13,7 @@ Learning: Explore new technologies, languages, or frameworks.
 Projects: Work on personal or collaborative projects to apply learning.
 ## Rules
 
-Code Every Day: Spend a minimum of one-hour coding or learning programming concepts.
+Code Every Day: Spend a minimum of one hour coding or learning programming concepts.
 
 Document Progress: Update the log file with daily progress, learnings, challenges, and achievements.
 
@@ -147,6 +147,17 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 12
 
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/41.%20First%20Missing%20Positive)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Hard/Merge%20Without%20Extra%20Space)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
