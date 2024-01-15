@@ -173,4 +173,32 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 14
+
+Today's Progress:
+1. Solved three GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1108.%20Defanging%20an%20IP%20Address)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Anagram)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Learn%20to%20Comment%20-%20Java)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Learn%20to%20Comment)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 15
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1920.%20Build%20Array%20from%20Permutation)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/BigInteger%20Multiply)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Missing%20number%20in%20array)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
