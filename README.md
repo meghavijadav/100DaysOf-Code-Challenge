@@ -209,8 +209,8 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
-[GFG]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1689.%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Array%20Subset%20of%20another%20array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -222,8 +222,8 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
-[GFG]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2011.%20Final%20Value%20of%20Variable%20After%20Performing%20Operations)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Longest%20Common%20Prefix%20in%20an%20Array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
