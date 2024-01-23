@@ -297,3 +297,16 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 23
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Minimum%20number%20of%20jumps)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
