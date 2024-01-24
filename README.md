@@ -310,3 +310,16 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 24
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/125.%20Valid%20Palindrome)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Delete%20without%20head%20pointer)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Sum%20of%20Big%20Integers)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
