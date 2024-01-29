@@ -350,4 +350,31 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 27
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/35.%20Search%20Insert%20Position)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Delete%20Array)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 28
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/33.%20Search%20in%20Rotated%20Sorted%20Array)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Insertion%20Sort)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+
 
