@@ -376,5 +376,31 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 29
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Game%20with%20nos)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 30
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/74.%20Search%20a%202D%20Matrix)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/School/Convert%20String%20to%20LowerCase)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
