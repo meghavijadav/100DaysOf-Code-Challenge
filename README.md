@@ -417,5 +417,28 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 32
+
+Today's Progress:
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/172.%20Factorial%20Trailing%20Zeroes)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+### Day 33
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/50.%20Pow(x%2C%20n))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Row%20with%20minimum%20number%20of%201's)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
