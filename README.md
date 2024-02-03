@@ -420,7 +420,7 @@ Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repositor
 ### Day 32
 
 Today's Progress:
-2. Solved one Leetcode Question
+1. Solved one Leetcode Question
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/172.%20Factorial%20Trailing%20Zeroes)
