@@ -441,4 +441,46 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 34
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/55.%20Jump%20Game))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Number%20is%20sparse%20or%20not)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 35
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2769.%20Find%20the%20Maximum%20Achievable%20Number))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Remove%20Duplicates)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 36
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2413.%20Smallest%20Even%20Multiple))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Count%20Leaves%20in%20Binary%20Tree)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
 
