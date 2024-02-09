@@ -518,7 +518,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]())
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2703.%20Return%20Length%20of%20Arguments%20Passed))
 [GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Roman%20Number%20to%20Integer)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
