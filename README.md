@@ -497,4 +497,31 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 38
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1480.%20Running%20Sum%20of%201d%20Array))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Longest%20Consecutive%201's)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 38
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode]())
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Roman%20Number%20to%20Integer)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
