@@ -525,3 +525,31 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 39
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2703.%20Return%20Length%20of%20Arguments%20Passed)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Roman%20Number%20to%20Integer)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 40
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Missing%20number)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
