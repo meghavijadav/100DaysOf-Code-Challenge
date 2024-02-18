@@ -553,3 +553,140 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 41
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2942.%20Find%20Words%20Containing%20Character)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Basic/Missing%20number)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 42
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences)
+[GFG]()
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 43
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/709.%20To%20Lower%20Case)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Easy/Taking%20input%20-%20Java)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Easy/The%20New%20Line%20-%20Java)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 44
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2667.%20Create%20Hello%20World%20Function)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Easy/Precise%20Format%20-%20Java)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 45
+
+Today's Progress:
+1. Solved three GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2620.%20Counter)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Easy/Bitwise%20Operators%20-%20Java)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Easy/Data%20Types%20-%20Java)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/Basic/Leap%20Year)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 46
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1365.%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/2e55ea33d413b3f72442bd6ed0b43d0b6ea05a37/School/Java%20Arrays%20%7C%20Set%201)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/1d03a44ec6a133d8a985c4b1dd755aa421a5b443/School/Java%20Hello%20World)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 47
+
+Today's Progress:
+1. Solved two GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1757.%20Recyclable%20and%20Low%20Fat%20Products)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/2e55ea33d413b3f72442bd6ed0b43d0b6ea05a37/School/if-else%20(Decision%20Making))
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/2e55ea33d413b3f72442bd6ed0b43d0b6ea05a37/School/Reverse%20a%20String)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 48
+
+Today's Progress:
+1. Solved three GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/584.%20Find%20Customer%20Referee)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/School/Java%20Input/Output)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/School/Java%20Switch%20Case%20statement)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Java%201-d%20and%202-d%20Array)
+
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 49
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/595.%20Big%20Countries)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/School/Java%20Inheritance)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+
+
+
