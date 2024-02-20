@@ -701,6 +701,20 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 51
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1683.%20Invalid%20Tweets)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Convert%20a%20sentence%20into%20its%20equivalent%20mobile%20numeric%20keypad%20sequence)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
 
 
 
