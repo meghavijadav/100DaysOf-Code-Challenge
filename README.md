@@ -715,6 +715,20 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 52
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1071.%20Greatest%20Common%20Divisor%20of%20Strings)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Search%20in%20a%20row-column%20sorted%20Matrix)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
 
 
 
