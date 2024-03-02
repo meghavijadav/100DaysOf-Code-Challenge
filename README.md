@@ -729,6 +729,127 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 53
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Majority%20Element)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 54
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Find%20duplicates%20in%20an%20array)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 55
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1068.%20Product%20Sales%20Analysis%20I)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Equilibrium%20Point)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 57
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Count%20pairs%20with%20given%20sum)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 58
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1678.%20Goal%20Parser%20Interpretation)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Second%20Largest)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 59
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/535.%20Encode%20and%20Decode%20TinyURL)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Check%20if%20a%20number%20is%20divisible%20by%208)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 60
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1476.%20Subrectangle%20Queries)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Basic/Check%20if%20two%20arrays%20are%20equal%20or%20not)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 61
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1637.%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Clone%20a%20stack%20without%20using%20extra%20space)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 62
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved two Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/3065.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20I)
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2974.%20Minimum%20Number%20Game)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Peak%20element)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+
 
 
 
