@@ -850,6 +850,31 @@ Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
+### Day 63
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2396.%20Strictly%20Palindromic%20Number)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Medium/Largest%20Number%20formed%20from%20an%20Array)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 64
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1859.%20Sorting%20the%20Sentence)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Swap%20the%20array%20elements)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
 
