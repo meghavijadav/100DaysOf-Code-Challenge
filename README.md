@@ -942,4 +942,16 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 70
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Count%20pairs%20Sum%20in%20matrices)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
