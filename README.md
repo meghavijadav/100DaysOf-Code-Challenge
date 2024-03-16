@@ -994,5 +994,30 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 73
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/817.%20Linked%20List%20Components)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Hard/Maximum%20subset%20XOR)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
+### Day 74
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/23.%20Merge%20k%20Sorted%20Lists)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Delete%20without%20head%20pointer)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
 
