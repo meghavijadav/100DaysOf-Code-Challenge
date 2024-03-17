@@ -1020,4 +1020,17 @@ Link to work:
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
 
+### Day 75
+
+Today's Progress:
+1. Solved one GFG Questions
+2. Solved one Leetcode Question
+   
+Link to work: 
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2798.%20Number%20of%20Employees%20Who%20Met%20the%20Target)
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/main/Easy/Count%20Pairs%20whose%20sum%20is%20equal%20to%20X)
+
+Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
+Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
+
 
