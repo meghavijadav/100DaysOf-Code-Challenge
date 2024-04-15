@@ -1053,7 +1053,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/193.%20Valid%20Phone%20Numbers)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1066,7 +1066,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1079,7 +1079,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/206.%20Reverse%20Linked%20List)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1092,7 +1092,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/20.%20Valid%20Parentheses)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1105,7 +1105,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/234.%20Palindrome%20Linked%20List)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1118,7 +1118,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1131,7 +1131,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/345.%20Reverse%20Vowels%20of%20a%20String)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1144,7 +1144,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2073.%20Time%20Needed%20to%20Buy%20Tickets)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1157,7 +1157,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/622.%20Design%20Circular%20Queue)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1170,7 +1170,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/239.%20Sliding%20Window%20Maximum)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1183,7 +1183,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2859.%20Sum%20of%20Values%20at%20Indices%20With%20K%20Set%20Bits)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1196,7 +1196,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2951.%20Find%20the%20Peaks)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1209,7 +1209,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1222,7 +1222,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/58.%20Length%20of%20Last%20Word)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1235,7 +1235,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/21.%20Merge%20Two%20Sorted%20Lists)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1248,7 +1248,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/205.%20Isomorphic%20Strings)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1261,7 +1261,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2652.%20Sum%20Multiples)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1274,7 +1274,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1287,7 +1287,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1300,7 +1300,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/20.%20Valid%20Parentheses)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1313,7 +1313,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/713.%20Subarray%20Product%20Less%20Than%20K)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1326,7 +1326,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/899.%20Orderly%20Queue)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1339,7 +1339,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/67.%20Add%20Binary)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
@@ -1352,7 +1352,7 @@ Today's Progress:
 2. Solved one Leetcode Question
    
 Link to work: 
-[Leetcode]()
+[Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/402.%20Remove%20K%20Digits)
 [GFG]()
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
