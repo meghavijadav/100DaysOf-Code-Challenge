@@ -1054,7 +1054,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/193.%20Valid%20Phone%20Numbers)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Parenthesis%20Checker)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1067,7 +1067,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Choice)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1080,7 +1080,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/206.%20Reverse%20Linked%20List)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Rotate%20Array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1093,7 +1093,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/20.%20Valid%20Parentheses)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Introduction%20to%20Trees)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1106,7 +1106,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/234.%20Palindrome%20Linked%20List)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Fibonacci%20series%20up%20to%20Nth%20term)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1119,7 +1119,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1741.%20Find%20Total%20Time%20Spent%20by%20Each%20Employee)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Insert%20an%20Element%20at%20the%20Bottom%20of%20a%20Stack)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1132,7 +1132,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/345.%20Reverse%20Vowels%20of%20a%20String)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Medium/Print%20N-bit%20binary%20numbers%20having%20more%201s%20than%200s)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1145,7 +1145,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2073.%20Time%20Needed%20to%20Buy%20Tickets)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Common%20elements)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1158,7 +1158,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/622.%20Design%20Circular%20Queue)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Detect%20Loop%20in%20linked%20list)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1171,7 +1171,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/239.%20Sliding%20Window%20Maximum)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Remove%20duplicate%20element%20from%20sorted%20Linked%20List)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1184,7 +1184,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2859.%20Sum%20of%20Values%20at%20Indices%20With%20K%20Set%20Bits)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Learning%20Structs)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1197,7 +1197,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2951.%20Find%20the%20Peaks)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Minimum%20element%20in%20BST)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1210,7 +1210,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2520.%20Count%20the%20Digits%20That%20Divide%20a%20Number)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Power%20of%202)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1223,7 +1223,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/58.%20Length%20of%20Last%20Word)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Union%20of%20two%20arrays)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1236,7 +1236,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/21.%20Merge%20Two%20Sorted%20Lists)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Prime%20Number)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1249,7 +1249,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/205.%20Isomorphic%20Strings)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Largest%20Element%20in%20Array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1262,7 +1262,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2652.%20Sum%20Multiples)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Print%20first%20n%20Fibonacci%20Numbers)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1275,7 +1275,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Count%20ways%20to%20N'th%20Stair)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1288,7 +1288,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/2125.%20Number%20of%20Laser%20Beams%20in%20a%20Bank)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Maximize%20dot%20product)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1301,7 +1301,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/20.%20Valid%20Parentheses)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Basic/Searching%20an%20element%20in%20a%20sorted%20array)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1314,7 +1314,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/713.%20Subarray%20Product%20Less%20Than%20K)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Hard/Minimum%20Points%20To%20Reach%20Destination)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1327,7 +1327,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/899.%20Orderly%20Queue)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Party%20of%20Couples)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1340,7 +1340,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/67.%20Add%20Binary)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/debc0c2c0a51acfda41b18832d1a82d551e8bc84/Easy/Nth%20Fibonacci%20Number)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
@@ -1353,7 +1353,7 @@ Today's Progress:
    
 Link to work: 
 [Leetcode](https://github.com/meghavijadav/Leetcode/tree/master/402.%20Remove%20K%20Digits)
-[GFG]()
+[GFG](https://github.com/meghavijadav/GFG-Solutions/tree/35f47941def3932198db0e76d873ec5d4f6de3a8/Medium/Sum%20of%20Products)
 
 Link to [Leetcode](https://github.com/meghavijadav/Leetcode) Repository
 Link to [GeeksForGeeks](https://github.com/meghavijadav/GFG-Solutions) Repository
